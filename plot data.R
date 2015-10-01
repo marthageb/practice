@@ -1,0 +1,4 @@
+hist(mydata)
+
+
+plot(mydata)
