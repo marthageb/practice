@@ -3,3 +3,5 @@ mydata <- seq(0,100, length.out=1000)
 
 #see summary stats of the data created on line 1
 summary(mydata)
+
+# hi im changing somthing
